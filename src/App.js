@@ -23,9 +23,6 @@ class App extends React.Component {
       firebase.auth.GoogleAuthProvider.PROVIDER_ID,
       firebase.auth.FacebookAuthProvider.PROVIDER_ID,
     ],
-    callbacks: {
-      signInSuccess: () => false,
-    },
   };
 
   componentDidMount = () => {
