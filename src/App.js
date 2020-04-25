@@ -6,7 +6,7 @@ import firebase from "firebase";
 import StyledFirebaseAuth from "react-firebaseui/StyledFirebaseAuth";
 
 firebase.initializeApp({
-  apiKey: "AIzaSyCxBf5NVv38zK3oE28yxtEejwbxU-IWHdg",
+  apiKey: "key",
   authDomain: "smart-home-1bcc6.firebaseapp.com",
 });
 
