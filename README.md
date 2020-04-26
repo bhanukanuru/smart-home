@@ -14,5 +14,9 @@ commands
  run npm start for deployment.
  
  
+ or you can view the deployment https://serene-allen-a57477.netlify.app
+ 
+ 
+ 
  
  
