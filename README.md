@@ -7,6 +7,8 @@ commands
  4) npm i redux
  5) npm i react-redux
  6) npm i redux-thunk
+ 7) npm i firebase
+ 8) npm i react-firebaseui
  
  
  run npm start for deployment.
